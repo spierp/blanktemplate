@@ -1,21 +1,16 @@
-== README
+== Spier Template
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby 2.0.0
 
-* System dependencies
+* Rails 4.0.0
 
-* Configuration
+* Bootstrap 3.1.1
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
+* PostgreSQL 9.3
 
 * Services (job queues, cache servers, search engines, etc.)
 
@@ -23,6 +18,3 @@ Things you may want to cover:
 
 * ...
 
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
